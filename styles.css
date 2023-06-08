@@ -1,3 +1,96 @@
-body{
-    background: rgb(207, 207, 207);
-} 
+body {
+  background-color: #1d1d1e;
+  font-family: "Roboto", sans-serif;
+  color: #00ff0d;
+}
+
+header {
+padding-bottom: 100px;
+}
+
+about{
+padding-bottom: 100px;
+}
+
+.intro {
+  margin: 0;
+  font-size: 30px;
+  top: 150px;
+  left: 20px;
+  position: absolute;
+}
+
+.name {
+  margin: 0;
+  font-size: 90px;
+  top: 225px;
+  left: 50px;
+  position: absolute;
+  color: rgb(67, 0, 250);
+}
+
+.subtitle {
+  margin: 0;
+  font-size: 30px;
+  top: 470px;
+  left: 150px;
+  position: absolute;
+}
+
+
+.headerimg {
+  margin: 0;
+  left: 750px;
+  top: 80px;
+  width: 600px;
+  height: 600px;
+  position: relative;
+  border-radius: 50%;
+}
+
+
+/* Flexbox layout for the "About Me" section */
+.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .flex-item {
+    flex: 1 1 300px;
+    margin: 10px;
+  }
+  
+  /* CSS Grid layout for the "Achievements" section */
+  .achievements {
+    padding: 20px;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  .grid-item {
+    text-align: center;
+  }
+  
+  /* Additional styles */
+  h2 {
+    text-align: center;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
