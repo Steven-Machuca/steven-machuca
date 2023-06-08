@@ -1,11 +1,11 @@
 body {
-  background-color: #1d1d1e;
+  background-color: #000000;
   font-family: "Roboto", sans-serif;
-  color: #00ff0d;
+  color: #ffffff;
 }
 
 header {
-padding-bottom: 100px;
+padding-bottom: 200px;
 }
 
 about{
@@ -14,7 +14,7 @@ padding-bottom: 100px;
 
 .intro {
   margin: 0;
-  font-size: 30px;
+  font-size: 50px;
   top: 150px;
   left: 20px;
   position: absolute;
@@ -22,17 +22,18 @@ padding-bottom: 100px;
 
 .name {
   margin: 0;
-  font-size: 90px;
-  top: 225px;
+  font-size: 120px;
+  top: 250px;
   left: 50px;
   position: absolute;
-  color: rgb(67, 0, 250);
+  color: rgb(0, 255, 17);
+  z-index: 1;
 }
 
 .subtitle {
   margin: 0;
   font-size: 30px;
-  top: 470px;
+  top: 500px;
   left: 150px;
   position: absolute;
 }
@@ -40,18 +41,16 @@ padding-bottom: 100px;
 
 .headerimg {
   margin: 0;
-  left: 750px;
+  left: 770px;
   top: 80px;
-  width: 600px;
-  height: 600px;
+  width: 650px;
+  height: 650px;
   position: relative;
-  border-radius: 50%;
 }
 
 
 /* Flexbox layout for the "About Me" section */
 .about-me {
-    display: flex;
     flex-direction: column;
     align-items: center;
     padding: 20px;
