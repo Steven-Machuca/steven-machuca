@@ -1,7 +1,15 @@
-### Hi there 👋
+# Hey There, I'm Steven!
+---
+## html & css static landing page.
 
+*Flexbox*
 
-- 🔭 I’m currently working on B.A Computer Science 2027 grad
-- 🌱 I’m currently learning Web development, Computer Science, CyberSecurity
-- 📫 How to reach me: Instagram
--->
+*Grid*
+
+*Keyframes & Animation*
+
+*Though out Design*
+---
+> Fun Fact: Fundamentals are key.
+
+> Follow your coder friend!
