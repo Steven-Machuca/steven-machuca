@@ -1,15 +1,10 @@
-# Hey There, I'm Steven!
+# Hey there! I'm Steven!
 ---
-## html & css static landing page.
-
-*Flexbox*
-
-*Grid*
-
-*Keyframes & Animation*
-
-*Though out Design*
+## Student WebDeveloper & Computer Science major in 2027 :)
+> Developer skills
+Front & back end development
+Database manipulation
 ---
 > Fun Fact: Fundamentals are key.
 
-> Follow your coder friend!
+> Follow my Journey on Instagram & Youtube!
