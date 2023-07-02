@@ -17,7 +17,7 @@ h2 {
   top: 150px;
   left: 220px;
   position: absolute;
-  color: rgb(155, 234, 164);
+  color: rgb(76, 0, 255);
   @media screen and (max-width: 600px) {
     font-size: 20px;
     font-weight: bold;
@@ -33,7 +33,7 @@ h2 {
   top: 250px;
   left: 50px;
   position: absolute;
-  color: navajowhite;
+  color: rgb(255, 5, 5);
   @media screen and (max-width: 600px) {
     font-size: 20px;
     top: 250px;
@@ -47,7 +47,7 @@ h2 {
   top: 500px;
   left: 150px;
   position: absolute;
-  color: rgb(155, 234, 164);
+  color: rgb(4, 0, 255);
   @media screen and (max-width: 600px) {
     font-size: 20px;
     font-weight: bold;
@@ -71,11 +71,3 @@ h2 {
     border: red solid 1px;
   }
 }
-
-.topnav {
-  @media screen and (max-width: 600px) {
-    display: flex;
-    flex-direction: row;
-  }
-    
-  }
